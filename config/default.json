@@ -1,0 +1,7 @@
+{
+    "mongoURI": "mongodb+srv://khaclamvna:khaclam2409@cluster0-uabnt.mongodb.net/test?retryWrites=true&w=majority",
+    "mongoLocal": "mongodb://localhost:27017/MERN",
+    "JwtSecret": "myjwtsercet",
+    "githubClientId": "14c0ba54b09f026cb1aa",
+    "githubSecret": "38fabca351d6ad70f81029b4233bffe61f5d301e"
+}
